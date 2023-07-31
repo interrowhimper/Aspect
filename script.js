@@ -7,6 +7,7 @@ const verbSets = {
     "ho²hwe²lv¹ga (writing)",
     "ụ²wo²hwe²³lo³²di (writing)",
   ],
+  
   "sg": [
     "gv²tṿ³sga (putting it into a fire)",
     "gv¹dṿ³sga (putting it into a fire)",
@@ -15,10 +16,13 @@ const verbSets = {
     "hv²tv¹ga (putting it into a fire)",
     "ụ²wv²tdi (putting it into a fire)",
   ],
+  
   "s": [
     ],
-  "g"[
+  
+  "g": [
   ],
+  
   "causative":[
     "a¹dạ²di²³nv³²dị²ha (s/he's bouncing it)",
     "gạ²dạ²di²³nv³²dị²ha (s/he's bouncing it)",
@@ -27,6 +31,7 @@ const verbSets = {
     "hạ²dạ²di²³nv¹da (s/he's bouncing it)",
     "u²dạ²di²³nv³²doh²di (s/he's bouncing it)",
     ],
+  
   "translocative aspect":[
     "a¹dạ²de³ga (it's bouncing)",
     "gạ²dạ²de³ga (it's bouncing)",
