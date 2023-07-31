@@ -32,7 +32,7 @@ const verbSets = {
     "u²dạ²di²³nv³²doh²di (s/he's bouncing it)",
     ],
   
-  "translocative aspect":[
+  "translocative":[
     "a¹dạ²de³ga (it's bouncing)",
     "gạ²dạ²de³ga (it's bouncing)",
     "u¹dạ²di²³nv³²sv²³Ɂi (it's bouncing)",
@@ -40,7 +40,24 @@ const verbSets = {
     "hạ²dạ²du¹ga (it's bouncing)",
     "u²dạ²di²³nv³²di (it's bouncing)",
     ],
-  
+
+  "applicative":[
+    "a¹danh²tẹ³ha (thinking)",
+    "gạ²da²nv¹tẹ³ha (thinking)",
+    "u¹danh²te²³hlv³Ɂi (thinking)",
+    "a¹danh²te²³sgọ³Ɂi (thinking)",
+    "hạ²danh²tv²³la (thinking)",
+    "u²danh²teh²di (thinking)",
+    ],
+
+  "repetitive":[
+    "a¹danh²te²³hi³lọ²Ɂa (pondering/considering)",
+    "gạ²da²nv¹te²³hi³lọ²Ɂa (pondering/considering)",
+    "u¹danh²te²³hi³lọ²Ɂv²³Ɂi (pondering/considering)",
+    "a¹danh²te²³hi²lo¹sgo³Ɂi (pondering/considering)",
+    "hạ²danh²te²hi²lo²³ja (pondering/considering)",
+    "u²danh²te²hi²lo¹sdi (pondering/considering)",
+    ],
   // Add more sets here with their respective aspects
 };
 
