@@ -1,20 +1,41 @@
 const verbSets = {
   "glottal": [
     "go²hwe²³li³Ɂa (writing)",
-    "go¹we²³lị³Ɂa",
-    "u¹wo²hwe²³la³²nv²³Ɂi",
-    "go²hwe²³li³²sgo³Ɂi",
-    "ho²hwe²lv¹ga",
-    "ụ²wo²hwe²³lo³²di",
+    "go¹we²³lị³Ɂa (writing)",
+    "u¹wo²hwe²³la³²nv²³Ɂi (writing)",
+    "go²hwe²³li³²sgo³Ɂi (writing)",
+    "ho²hwe²lv¹ga (writing)",
+    "ụ²wo²hwe²³lo³²di (writing)",
   ],
   "sg": [
     "gv²tṿ³sga (putting it into a fire)",
-    "gv¹dṿ³sga",
-    "u¹wv²tạ³nv³Ɂi",
-    "gv²tṿ³sgọ³Ɂi",
-    "hv²tv¹ga",
-    "ụ²wv²tdi",
+    "gv¹dṿ³sga (putting it into a fire)",
+    "u¹wv²tạ³nv³Ɂi (putting it into a fire)",
+    "gv²tṿ³sgọ³Ɂi (putting it into a fire)",
+    "hv²tv¹ga (putting it into a fire)",
+    "ụ²wv²tdi (putting it into a fire)",
   ],
+  "s": [
+    ],
+  "g"[
+  ],
+  "causative":[
+    "a¹dạ²di²³nv³²dị²ha (s/he's bouncing it)",
+    "gạ²dạ²di²³nv³²dị²ha (s/he's bouncing it)",
+    "u¹dạ²di²³nv³²tạ²nv²³Ɂi (s/he's bouncing it)",
+    "a¹da²di²³nv³²di²sgo³Ɂi (s/he's bouncing it)",
+    "hạ²dạ²di²³nv¹da (s/he's bouncing it)",
+    "u²dạ²di²³nv³²doh²di (s/he's bouncing it)",
+    ],
+  "translocative aspect":[
+    "a¹dạ²de³ga (it's bouncing)",
+    "gạ²dạ²de³ga (it's bouncing)",
+    "u¹dạ²di²³nv³²sv²³Ɂi (it's bouncing)",
+    "a¹dạ²de³go³Ɂi (it's bouncing)",
+    "hạ²dạ²du¹ga (it's bouncing)",
+    "u²dạ²di²³nv³²di (it's bouncing)",
+    ],
+  
   // Add more sets here with their respective aspects
 };
 
