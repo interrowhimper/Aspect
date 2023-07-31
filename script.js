@@ -27,8 +27,8 @@ const aspectResult = document.getElementById("aspectResult");
 let currentVerb = null;
 let currentAspect = null;
 
-function getRandomWord(verbs) {
-  return verbs[Math.floor(Math.random() * verbs.length)];
+function getRandomWord(verbSets) {
+  return verbSets[Math.floor(Math.random() * verbs.length)];
 }
 
 randomButton.addEventListener("click", function () {
@@ -42,9 +42,6 @@ randomButton.addEventListener("click", function () {
 revealButton.addEventListener("click", function () {
   const userInput = inputAspect.value.trim();
   
-  if (currentAspect && currentVerb.includes(userInput)) {
-    aspectResult.textContent = `The verb belongs to the "${currentAspect}" aspect.`;
-  } else {
-    aspectResult.textContent = "Invalid input or the verb does not belong to any known aspect.";
-  }
+  aspectResult.textContent = `"${currentAspect}"`;
+ 
 });
