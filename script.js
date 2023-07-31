@@ -1,4 +1,3 @@
-// Verb sets grouped by aspect
 const verbSets = {
   "glottal": [
     "go²hwe²³li³Ɂa (writing)",
@@ -32,17 +31,22 @@ function getRandomWord(verbs) {
 randomButton.addEventListener("click", function () {
   const randomSet = getRandomWord(Object.keys(verbSets));
   const randomWord = getRandomWord(verbSets[randomSet]);
-  verbCanvas.innerHTML = randomWord;
+  verbCanvas.textContent = randomWord;
+  aspectResult.textContent = ''; // Clear previous result when generating a new word
 });
 
 revealButton.addEventListener("click", function () {
   const userInput = inputAspect.value.trim();
-  const verbSet = Object.keys(verbSets).find((aspect) =>
-    verbSets[aspect].includes(userInput)
-  );
+  let foundAspect = null;
+  for (const aspect in verbSets) {
+    if (verbSets[aspect].includes(userInput)) {
+      foundAspect = aspect;
+      break;
+    }
+  }
 
-  if (verbSet) {
-    aspectResult.textContent = `The verb belongs to the "${verbSet}" aspect.`;
+  if (foundAspect) {
+    aspectResult.textContent = `The verb belongs to the "${foundAspect}" aspect.`;
   } else {
     aspectResult.textContent = "Invalid input or the verb does not belong to any known aspect.";
   }
