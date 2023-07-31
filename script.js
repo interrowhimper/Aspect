@@ -1,20 +1,20 @@
 const verbSets = {
   "glottal": [
-    "go²hwe²³li³Ɂa (writing)",
-    "go¹we²³lị³Ɂa (writing)",
-    "u¹wo²hwe²³la³²nv²³Ɂi (writing)",
-    "go²hwe²³li³²sgo³Ɂi (writing)",
-    "ho²hwe²lv¹ga (writing)",
-    "ụ²wo²hwe²³lo³²di (writing)",
+    "go²hwe²³li³Ɂa (s/he's writing)",
+    "go¹we²³lị³Ɂa (I'm writing)",
+    "u¹wo²hwe²³la³²nv²³Ɂi (s/he wrote)",
+    "go²hwe²³li³²sgo³Ɂi (s/he's always writing)",
+    "ho²hwe²lv¹ga (write!)",
+    "ụ²wo²hwe²³lo³²di (for her/him to write)",
   ],
   
   "sg": [
-    "gv²tṿ³sga (putting it into a fire)",
-    "gv¹dṿ³sga (putting it into a fire)",
-    "u¹wv²tạ³nv³Ɂi (putting it into a fire)",
-    "gv²tṿ³sgọ³Ɂi (putting it into a fire)",
-    "hv²tv¹ga (putting it into a fire)",
-    "ụ²wv²tdi (putting it into a fire)",
+    "gv²tṿ³sga (s/he's putting it into a fire)",
+    "gv¹dṿ³sga (I'm putting it into a fire)",
+    "u¹wv²tạ³nv³Ɂi (s/he put it into a fire)",
+    "gv²tṿ³sgọ³Ɂi (s/he's always putting it into a fire)",
+    "hv²tv¹ga (put it into a fire!)",
+    "ụ²wv²tdi (for her to put it into a fire)",
   ],
   
   "s": [
@@ -25,38 +25,38 @@ const verbSets = {
   
   "causative":[
     "a¹dạ²di²³nv³²dị²ha (s/he's bouncing it)",
-    "gạ²dạ²di²³nv³²dị²ha (s/he's bouncing it)",
-    "u¹dạ²di²³nv³²tạ²nv²³Ɂi (s/he's bouncing it)",
-    "a¹da²di²³nv³²di²sgo³Ɂi (s/he's bouncing it)",
-    "hạ²dạ²di²³nv¹da (s/he's bouncing it)",
-    "u²dạ²di²³nv³²doh²di (s/he's bouncing it)",
+    "gạ²dạ²di²³nv³²dị²ha (I'm bouncing it)",
+    "u¹dạ²di²³nv³²tạ²nv²³Ɂi (s/he bounced it)",
+    "a¹da²di²³nv³²di²sgo³Ɂi (s/he's always bouncing it)",
+    "hạ²dạ²di²³nv¹da (bounce it!)",
+    "u²dạ²di²³nv³²doh²di (for her to bounce it)",
     ],
   
   "translocative":[
     "a¹dạ²de³ga (it's bouncing)",
-    "gạ²dạ²de³ga (it's bouncing)",
-    "u¹dạ²di²³nv³²sv²³Ɂi (it's bouncing)",
-    "a¹dạ²de³go³Ɂi (it's bouncing)",
-    "hạ²dạ²du¹ga (it's bouncing)",
-    "u²dạ²di²³nv³²di (it's bouncing)",
+    "gạ²dạ²de³ga (I'm bouncing)",
+    "u¹dạ²di²³nv³²sv²³Ɂi (it bounced)",
+    "a¹dạ²de³go³Ɂi (it's always bouncing)",
+    "hạ²dạ²du¹ga (bounce!)",
+    "u²dạ²di²³nv³²di (for it to bounce)",
     ],
 
   "applicative":[
-    "a¹danh²tẹ³ha (thinking)",
-    "gạ²da²nv¹tẹ³ha (thinking)",
-    "u¹danh²te²³hlv³Ɂi (thinking)",
-    "a¹danh²te²³sgọ³Ɂi (thinking)",
-    "hạ²danh²tv²³la (thinking)",
-    "u²danh²teh²di (thinking)",
+    "a¹danh²tẹ³ha (s/he's thinking)",
+    "gạ²da²nv¹tẹ³ha (I'm thinking)",
+    "u¹danh²te²³hlv³Ɂi (s/he thought)",
+    "a¹danh²te²³sgọ³Ɂi (s/he's always thinking)",
+    "hạ²danh²tv²³la (think!)",
+    "u²danh²teh²di (for her/him to think)",
     ],
 
   "repetitive":[
-    "a¹danh²te²³hi³lọ²Ɂa (pondering/considering)",
-    "gạ²da²nv¹te²³hi³lọ²Ɂa (pondering/considering)",
-    "u¹danh²te²³hi³lọ²Ɂv²³Ɂi (pondering/considering)",
-    "a¹danh²te²³hi²lo¹sgo³Ɂi (pondering/considering)",
-    "hạ²danh²te²hi²lo²³ja (pondering/considering)",
-    "u²danh²te²hi²lo¹sdi (pondering/considering)",
+    "a¹danh²te²³hi³lọ²Ɂa (s/he's pondering/considering)",
+    "gạ²da²nv¹te²³hi³lọ²Ɂa (I'm pondering/considering)",
+    "u¹danh²te²³hi³lọ²Ɂv²³Ɂi (s/he pondered/considered)",
+    "a¹danh²te²³hi²lo¹sgo³Ɂi (s/he's always pondering/considering)",
+    "hạ²danh²te²hi²lo²³ja (ponder!/consider!)",
+    "u²danh²te²hi²lo¹sdi (for her/him to ponder/consider)",
     ],
   // Add more sets here with their respective aspects
 };
