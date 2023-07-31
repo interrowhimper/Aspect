@@ -15,12 +15,19 @@ const verbSets = {
     "gv²tṿ³sgọ³Ɂi (s/he's always putting it into a fire)",
     "hv²tv¹ga (put it into a fire!)",
     "ụ²wv²tdi (for her to put it into a fire)",
+    "a¹lji³kwsga (s/he's spitting)",
+    "gal²ji³kwsga (I'm spitting)",
+    "ul¹ji³gwv²³Ɂi (s/he spat)",
+    "al¹ji³kwsgo³Ɂi (s/he's always spitting)",
+    "hal²ji¹kwa (spit!)",
+    "ul²ji¹kwsdi (for her/him to spit)",
   ],
   
-  "s": [
-    ],
-  
   "g": [
+  "a¹dli³²ga (liquid is pouring into a container/it's filling)",
+  "u¹dli³²jv²³Ɂi (liquid poured into a container/it filled)",
+  "a¹dli³²go³Ɂi (liquid is always pouring into a container/it's always filling",
+  "u²dliy¹sdi (for liquid to pour into a container/for it to fill",
   ],
   
   "causative":[
@@ -58,6 +65,27 @@ const verbSets = {
     "hạ²danh²te²hi²lo²³ja (ponder!/consider!)",
     "u²danh²te²hi²lo¹sdi (for her/him to ponder/consider)",
     ],
+
+  "completive":[
+    "a¹gọ³hṿ²sga (it's burning)",
+    "gạ³gọ²hṿ³sga (I'm burning)",
+    "u¹gọ²hnv²³Ɂi (it burned)",
+    "a¹gọ³hṿ²sgo³Ɂi (it's always burning)",
+    "hạ²gọ²hna (burn!)",
+    "u²gọ³hṿ³sdi (for it to burn)",
+    
+    ],
+
+  "frequentive/recurring":[
+    "gạɁ³ni²sị³ha (s/he's burying him/her)",
+    "ji³ni²sị³ha (I'm burying him/her)",
+    "u¹ni³sạ²hnv²³Ɂ (s/he buried him/her)",
+    "gạɁ³ni²si²³sgọ³Ɂi (s/he's always burying him/her)",
+    "hi²ni²³sa (bury him!)",
+    "u²ni²³soh³di (for him/her to bury him/her)",
+    
+    ]
+  
   // Add more sets here with their respective aspects
 };
 
