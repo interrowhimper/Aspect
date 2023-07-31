@@ -19,6 +19,7 @@ const verbSets = {
 };
 
 const verbCanvas = document.getElementById("verbCanvas");
+const canvasContext = verbCanvas.getContext("2d"); // Get the canvas 2D context
 const randomButton = document.getElementById("randomButton");
 const inputAspect = document.getElementById("inputAspect");
 const revealButton = document.getElementById("revealButton");
@@ -27,15 +28,20 @@ const aspectResult = document.getElementById("aspectResult");
 let currentVerb = null;
 let currentAspect = null;
 
-function getRandomWord(verbSets) {
-  return verbSets[Math.floor(Math.random() * verbs.length)];
+function getRandomWord(verbs) {
+  return verbs[Math.floor(Math.random() * verbs.length)];
 }
 
 randomButton.addEventListener("click", function () {
   const randomSet = getRandomWord(Object.keys(verbSets));
   currentVerb = getRandomWord(verbSets[randomSet]);
   currentAspect = randomSet;
-  verbCanvas.textContent = currentVerb;
+  
+  // Clear the previous text on the canvas
+  canvasContext.clearRect(0, 0, verbCanvas.width, verbCanvas.height);
+  
+  // Draw the new text on the canvas
+  canvasContext.fillText(currentVerb, 10, 50); // You can change the position as needed
   aspectResult.textContent = ''; // Clear previous result when generating a new word
 });
 
@@ -43,5 +49,4 @@ revealButton.addEventListener("click", function () {
   const userInput = inputAspect.value.trim();
   
   aspectResult.textContent = `"${currentAspect}"`;
- 
 });
