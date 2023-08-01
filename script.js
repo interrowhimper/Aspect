@@ -1,5 +1,5 @@
 const verbSets = {
-  "glottal": [
+  "glottal group": [
     "go²hwe²³li³Ɂa (s/he's writing)",
     "go¹we²³lị³Ɂa (I'm writing)",
     "u¹wo²hwe²³la³²nv²³Ɂi (s/he wrote)",
@@ -8,7 +8,7 @@ const verbSets = {
     "ụ²wo²hwe²³lo³²di (for her/him to write)",
   ],
   
-  "sg": [
+  "sg group": [
     "gv²tṿ³sga (s/he's putting it into a fire)",
     "gv¹dṿ³sga (I'm putting it into a fire)",
     "u¹wv²tạ³nv³Ɂi (s/he put it into a fire)",
@@ -22,8 +22,22 @@ const verbSets = {
     "hal²ji¹kwa (spit!)",
     "ul²ji¹kwsdi (for her/him to spit)",
   ],
+
+  "h group": [
+    "a¹da²jạ²gạ²lị³ha (it's ripping)",
+    "gạ²da²jạ²gạ²lị³a (I'm ripping)",
+    "u¹da²jạ²gạ²lv²hv²³Ɂi (it ripped)",
+    "a¹da²jạ²gạ²li²³sgọ³Ɂi (it's always ripping)",
+    "hạ²dạjạ²gạ²la (rip!)",
+    "u²da²jạ²gahl²di (for it to rip)",
+    "a¹ga³lị²ha (it's shining)",
+    "u¹ga³li²sv²³Ɂi (it shone)",
+    "a¹ga³li²sgo³Ɂi (it's always shining)",
+    "u²ga²li²³hị³sdi (for it to shine)",
+    
+  ],
   
-  "g": [
+  "g group": [
   "a¹dli³²ga (liquid is pouring into a container/it's filling)",
   "u¹dli³²jv²³Ɂi (liquid poured into a container/it filled)",
   "a¹dli³²go³Ɂi (liquid is always pouring into a container/it's always filling",
