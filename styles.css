@@ -38,4 +38,5 @@ p {
       align-items: center;
       justify-content: center;
       background-color: #B0E5F9;
+      max-width: 800px;
     }
