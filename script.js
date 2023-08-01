@@ -137,6 +137,16 @@ randomButton.addEventListener("click", function () {
 
 revealButton.addEventListener("click", function () {
   const userInput = inputAspect.value.trim();
+
+  // ... (Rest of the code remains the same)
+
+// Helper function to activate the "Reveal" button when pressing Enter in the input box
+inputAspect.addEventListener("keyup", function (event) {
+  if (event.key === "Enter") {
+    revealButton.click();
+  }
+});
+
   
   aspectResult.textContent = `"${currentAspect}"`;
 });
