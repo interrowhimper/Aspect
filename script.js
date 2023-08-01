@@ -40,8 +40,8 @@ const verbSets = {
   "g group": [
   "a¹dli³²ga (liquid is pouring into a container/it's filling)",
   "u¹dli³²jv²³Ɂi (liquid poured into a container/it filled)",
-  "a¹dli³²go³Ɂi (liquid is always pouring into a container/it's always filling",
-  "u²dliy¹sdi (for liquid to pour into a container/for it to fill",
+  "a¹dli³²go³Ɂi (liquid is always pouring into a container/it's always filling)",
+  "u²dliy¹sdi (for liquid to pour into a container/for it to fill)",
   ],
   
   "causative":[
