@@ -60,6 +60,12 @@ const verbSets = {
     "a¹dạ²de³go³Ɂi (it's always bouncing)",
     "hạ²dạ²du¹ga (bounce!)",
     "u²dạ²di²³nv³²di (for it to bounce)",
+    "gạɁ³le¹ga (s/he's climbing it)",
+    "jịɁ³le¹ga (I'm climbing it)",
+    "u¹lv³²sv²³Ɂi (s/he climbed it)",
+    "gạɁ³le¹go³Ɂi (s/he's always climbing it)",
+    "hịɁ²lu¹ga (climb it!)",
+    "u²lv¹sdi (for her/him to climb it)",
     ],
 
   "applicative":[
@@ -88,6 +94,37 @@ const verbSets = {
     "hạ²gọ²hna (burn!)",
     "u²gọ³hṿ³sdi (for it to burn)",
     
+    ],
+
+  "locative/ambulative":[
+    "gạɁ³li²do³ha (s/he's climbing around)",
+    "jịɁ³li²do³ha (I'm climbing around)",
+    "u¹li³do¹lv²³Ɂi (s/he climbed around)",
+    "gạɁ³li²do³ho³Ɂi (s/he's always climbing around)",
+    "hịɁ²li²³da (climb around!)",
+    "u²li²³da³²sdi (for her/him to climb around)",
+    "a¹da²hwah²tv²hi²³do³²ha (s/he's visiting)",
+    "ga²da¹wah²tv²hi²³do³²ha (I'm visiting)",
+    "u¹da²hwah²tv²hi²³do³²lv²³i (s/he visited)",
+    "a¹da²hwah²tv²hi²³do³²ho³Ɂi (s/he's always visiting)",
+    "hạ²da²hwah²tv²hi²da (visit!)",
+    "u²da²hwah²tv²hi²³da³²sdi (for her/him to visit)",
+    "a¹hi²³do³²ha (s/he's handling it/has it in her/his hand)"
+    "jị²Ɂi²³do³²ha (I'm handling it/have it in my hand)",
+    "u¹hi²³do³²lv²³Ɂi (s/he handled it/had it in her/his hand)",
+    "a¹hi²³do³²ho³Ɂi (s/he's always handling it/always has it in her/his hand)",
+    "hị²hi²³da (handle it!/have it in your hand!)",
+    "u²hi²³da³²sdi (for her/him to handle it/for her/him to have it in her/his hand)",
+    "a¹hlị³Ɂị²li²³do³²ha (it's taking time)",
+    "u¹hlị³Ɂị¹li²³do³²lv²³Ɂi (it took time)",
+    "a¹hlị³Ɂilido³²ho³Ɂi (it always takes time)",
+    "u²hlị²Ɂị²li²³da³²sdi (for it to take time)",
+   "da¹kạ²no²wạ²di²³do³²ha (s/he's looking after him/her)",
+   "de²ji³ga¹no²wạ²di²³do³²ha (I'm looking after her/him)",
+   "du¹kạ²no²wạ²di²³do³²lv²³Ɂi (s/he looked after her/him)",
+   "da¹kạ²no²wạ²di²³do³²ho³Ɂi (s/he's always looking after her/him)",
+   "ti²ga³²no²wạ²di²³da (look after her/him!)",
+   "ju²kạ²no²wạ²di²³da³²sdi (for her/him to look after her/him)",
     ],
 
   "frequentive/recurring":[
