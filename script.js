@@ -93,7 +93,7 @@ const verbSets = {
     "gạ²do³²go³Ɂi (s/he's always standing)",
     "hị²do³²ge³sdi (stand!)",
     "gạ²nv³ga (s/he's falling from an upright position)",
-    "jị²nv³ga ("I'm falling from an upright position)",
+    "jị²nv³ga (I'm falling from an upright position)",
     "u¹nv³jv²³Ɂi (s/he fell from an upright position)",
     "gạ²nv³go²³Ɂi (s/he's always falling from an upright position)",
     "hị²nv¹gi (fall from an upright position!)",
