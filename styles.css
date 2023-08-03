@@ -1,32 +1,31 @@
 body {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
-  margin: 0;
-}
-
-.container {
-  text-align: center;
-  max-width: 800px;
-  margin: 0 auto;
-}
-
-.canvas {
-  border: 1px solid black;
-  margin: 10px auto;
-  font-size: 20px;
-  color: black;
-}
-
-button {
-  margin: 5px;
-}
-
-#aspectResult {
-  margin-top: 10px;
-}
-
-#inputAspect {
-  margin-top: 10px;
-}
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      background-color: #B0E5F9;
+    }
+    canvas {
+      border: 1px solid #ccc;
+      background-color: #FFFFFF;
+    }
+    button {
+      margin-top: 4px;
+      background-color: #FFFFFF;
+      align-items: center;
+    }
+    label {
+      margin-right: 4px;
+    }
+    h1 {
+      font-size: 32px;
+    }
+    h2 {
+      font-size: 20px;
+    }
+    p {
+      font-size: 16px;
+    }
