@@ -119,12 +119,13 @@ const verbSets = {
     "u¹hlị³Ɂị¹li²³do³²lv²³Ɂi (it took time)",
     "a¹hlị³Ɂilido³²ho³Ɂi (it always takes time)",
     "u²hlị²Ɂị²li²³da³²sdi (for it to take time)",
-   "da¹kạ²no²wạ²di²³do³²ha (s/he's looking after him/her)",
-   "de²ji³ga¹no²wạ²di²³do³²ha (I'm looking after her/him)",
-   "du¹kạ²no²wạ²di²³do³²lv²³Ɂi (s/he looked after her/him)",
-   "da¹kạ²no²wạ²di²³do³²ho³Ɂi (s/he's always looking after her/him)",
-   "ti²ga³²no²wạ²di²³da (look after her/him!)",
-   "ju²kạ²no²wạ²di²³da³²sdi (for her/him to look after her/him)",
+    "da¹kạ²no²wạ²di²³do³²ha (s/he's looking after him/her)",
+    "de²ji³ga¹no²wạ²di²³do³²ha (I'm looking after her/him)",
+    "du¹kạ²no²wạ²di²³do³²lv²³Ɂi (s/he looked after her/him)",
+    "da¹kạ²no²wạ²di²³do³²ho³Ɂi (s/he's always looking after her/him)",
+    "ti²ga³²no²wạ²di²³da (look after her/him!)",
+    "ju²kạ²no²wạ²di²³da³²sdi (for her/him to look after her/him)",
+  
     ],
 
   "frequentive/recurring":[
@@ -135,7 +136,7 @@ const verbSets = {
     "hi²ni²³sa (bury him!)",
     "u²ni²³soh³di (for him/her to bury him/her)",
     
-    ]
+    ],
   
   // Add more sets here with their respective aspects
 };
