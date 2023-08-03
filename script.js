@@ -1,5 +1,5 @@
 const verbSets = {
-  "glottal group": [
+  "glottal group (root suffix is glottal in the present tense)": [
     "go²hwe²³li³Ɂa (s/he's writing)",
     "go¹we²³lị³Ɂa (I'm writing)",
     "u¹wo²hwe²³la³²nv²³Ɂi (s/he wrote)",
@@ -32,7 +32,7 @@ const verbSets = {
     "u²ne²gi¹sdi (for her/him to pick it up [liquid] or get it [liquid])",
   ],
   
-  "sg group": [
+  "sg group (root suffix is sg in the present tense)": [
     "gv²tṿ³sga (s/he's putting it into a fire)",
     "gv¹dṿ³sga (I'm putting it into a fire)",
     "u¹wv²tạ³nv³Ɂi (s/he put it into a fire)",
@@ -59,7 +59,7 @@ const verbSets = {
     "u²leh²di (for her/him to stand in a certain spot)",
   ],
 
-  "h group": [
+  "h group (root suffix is h in the present tense)": [
     "a¹da²jạ²gạ²lị³ha (it's ripping)",
     "gạ²da²jạ²gạ²lị³a (I'm ripping)",
     "u¹da²jạ²gạ²lv²hv²³Ɂi (it ripped)",
@@ -83,7 +83,7 @@ const verbSets = {
     
   ],
   
-  "g group": [
+  "g group (root suffix is g in the present tense)": [
    "a¹dli³²ga (liquid is pouring into a container/it's filling)",
    "u¹dli³²jv²³Ɂi (liquid poured into a container/it filled)",
    "a¹dli³²go³Ɂi (liquid is always pouring into a container/it's always filling)",
@@ -101,7 +101,7 @@ const verbSets = {
     
   ],
   
-  "causative":[
+  "causative aspect":[
     "a¹dạ²di²³nv³²dị²ha (s/he's bouncing it)",
     "gạ²dạ²di²³nv³²dị²ha (I'm bouncing it)",
     "u¹dạ²di²³nv³²tạ²nv²³Ɂi (s/he bounced it)",
@@ -114,7 +114,7 @@ const verbSets = {
     "anh¹dạ²di³²sgo³Ɂi (s/he's always remembering it)",
     "hanh²da²da (remember it!)",
     "unh²dạ²di¹sdi (for her/him to remember it)",
-     "da¹leh²dị³ha (s/he's helping her/him up or standing it up)",
+    "da¹leh²dị³ha (s/he's helping her/him up or standing it up)",
     "de²ji³yạ²le¹dị³ha (I'm helphing him/her up",
     "de²gạ³le¹dị³ha (I'm standing it up)",
     "du¹leh²tạ³nv³Ɂi (s/he helped him/her up or stood it up)",
@@ -124,7 +124,7 @@ const verbSets = {
     "ju²leh²doh³di (for her/him to help her/him stand or for him/her to stand it up)",
     ],
   
-  "translocative":[
+  "translocative aspect":[
     "a¹dạ²de³ga (it's bouncing)",
     "gạ²dạ²de³ga (I'm bouncing)",
     "u¹dạ²di²³nv³²sv²³Ɂi (it bounced)",
@@ -139,7 +139,7 @@ const verbSets = {
     "u²lv¹sdi (for her/him to climb it)",
     ],
 
-  "applicative":[
+  "applicative aspect":[
     "a¹danh²tẹ³ha (s/he's thinking)",
     "gạ²da²nv¹tẹ³ha (I'm thinking)",
     "u¹danh²te²³hlv³Ɂi (s/he thought)",
@@ -155,7 +155,7 @@ const verbSets = {
     
     ],
 
-  "repetitive":[
+  "repetitive aspect":[
     "a¹danh²te²³hi³lọ²Ɂa (s/he's pondering/considering)",
     "gạ²da²nv¹te²³hi³lọ²Ɂa (I'm pondering/considering)",
     "u¹danh²te²³hi³lọ²Ɂv²³Ɂi (s/he pondered/considered)",
@@ -164,7 +164,7 @@ const verbSets = {
     "u²danh²te²hi²lo¹sdi (for her/him to ponder/consider)",
     ],
 
-  "completive":[
+  "completive aspect":[
     "a¹gọ³hṿ²sga (it's burning)",
     "gạ³gọ²hṿ³sga (I'm burning)",
     "u¹gọ²hnv²³Ɂi (it burned)",
@@ -174,7 +174,7 @@ const verbSets = {
     
     ],
 
-  "locative/ambulative":[
+  "locative/ambulative aspect":[
     "gạɁ³li²do³ha (s/he's climbing around)",
     "jịɁ³li²do³ha (I'm climbing around)",
     "u¹li³do¹lv²³Ɂi (s/he climbed around)",
@@ -206,7 +206,7 @@ const verbSets = {
   
     ],
 
-  "frequentive/recurring":[
+  "frequentive/recurring aspect":[
     "gạɁ³ni²sị³ha (s/he's burying him/her)",
     "ji³ni²sị³ha (I'm burying him/her)",
     "u¹ni³sạ²hnv²³Ɂ (s/he buried him/her)",
