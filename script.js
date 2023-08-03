@@ -256,6 +256,9 @@ revealButton.addEventListener("click", function () {
 
   // ... (Rest of the code remains the same)
 
+  aspectResult.textContent = `"${currentAspect}"`;
+});
+
 // Helper function to activate the "Reveal" button when pressing Enter in the input box
 inputAspect.addEventListener("keyup", function (event) {
   if (event.key === "Enter") {
@@ -263,6 +266,3 @@ inputAspect.addEventListener("keyup", function (event) {
   }
 });
 
-  
-  aspectResult.textContent = `"${currentAspect}"`;
-});
