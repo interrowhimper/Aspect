@@ -118,7 +118,7 @@ const verbSets = {
     "de²ji³yạ²le¹dị³ha (I'm helphing him/her up",
     "de²gạ³le¹dị³ha (I'm standing it up)",
     "du¹leh²tạ³nv³Ɂi (s/he helped him/her up or stood it up)",
-    "da¹leh²di²³sgọ³Ɂi (s/he's always helping her/him up or standing it up"),
+    "da¹leh²di²³sgọ³Ɂi (s/he's always helping her/him up or standing it up)",
     "ti²yạ³le¹da (help him/her stand!)",
     "tạ²leh³da (stand it up!)",
     "ju²leh²doh³di (for her/him to help her/him stand or for him/her to stand it up)",
