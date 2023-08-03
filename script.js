@@ -109,7 +109,7 @@ const verbSets = {
     "a¹da²hwah²tv²hi²³do³²ho³Ɂi (s/he's always visiting)",
     "hạ²da²hwah²tv²hi²da (visit!)",
     "u²da²hwah²tv²hi²³da³²sdi (for her/him to visit)",
-    "a¹hi²³do³²ha (s/he's handling it/has it in her/his hand)"
+    "a¹hi²³do³²ha (s/he's handling it/has it in her/his hand)",
     "jị²Ɂi²³do³²ha (I'm handling it/have it in my hand)",
     "u¹hi²³do³²lv²³Ɂi (s/he handled it/had it in her/his hand)",
     "a¹hi²³do³²ho³Ɂi (s/he's always handling it/always has it in her/his hand)",
