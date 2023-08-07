@@ -1,4 +1,13 @@
 const verbSets = {
+  "particle verb (standalone particles are making this verb; no root suffix per se)": [
+    "u¹du³³ha (s/he's standing in liquid)",
+    "a¹gwạ²dụ³ha (I'm standing in liquid)",
+    "u¹du³sv²³Ɂi (s/he stood in liquid)",
+    "u¹du³so³Ɂi (s/he's always standing in liquid)",
+    "jạ²du³se³sdi (s/he's always standing in liquid)",
+    "u¹duh²di (for her/him to stand in liquid)",
+    ],
+  
   "glottal group (root suffix is glottal in the present tense)": [
     "go²hwe²³li³Ɂa (s/he's writing)",
     "go¹we²³lị³Ɂa (I'm writing)",
@@ -70,12 +79,6 @@ const verbSets = {
     "u¹ga³li²sv²³Ɂi (it shone)",
     "a¹ga³li²sgo³Ɂi (it's always shining)",
     "u²ga²li²³hị³sdi (for it to shine)",
-    "u¹dụ³ha (s/he's standing in liquid])", /* this one doesn't totally fit the pattern - look @ habitual */
-    "a¹gwạ²dụ³ha (I'm standing in liquid)",
-    "u¹du³sv²³Ɂi (s/he stood in liquid)",
-    "u¹du³so³Ɂi (s/he's always standing in liquid)",
-    "jạ²du³se³sdi (s/he's always standing in liquid)",
-    "u¹duh²di (for her/him to stand in liquid)",
     "a¹dli²³ha (s/he's drawing liquid from a container or it's filling)",
     "u¹dli³²jv²³Ɂi (s/he drew liquid from a container or it filled)",
     "a¹dli³²go³Ɂi (s/he's always drawing liquid from a container or it's always filling)",
