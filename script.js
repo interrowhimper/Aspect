@@ -176,10 +176,10 @@ const verbSets = {
     "gạɁ³le¹go³Ɂi (s/he's always climbing it)",
     "hịɁ²lu¹ga (climb it!)",
     "u²lv¹sdi (for her/him to climb it)",
-    "a¹hnọ²hli²³ne³²ga (s/he's carrying it on her/his shoulder [long])"
-    "ga¹nọ²hli²³ne³²ga (I'm carrying it on my shoulder [long])"
-    "u²hnọ²hli²³nv³²svi (s/he carried it on her/his shoulder [long])
-    "a¹hnọ²hli²³ne³²go³Ɂi (s/he's always carrying it on her/his shoulder [long])
+    "a¹hnọ²hli²³ne³²ga (s/he's carrying it on her/his shoulder [long])",
+    "ga¹nọ²hli²³ne³²ga (I'm carrying it on my shoulder [long])",
+    "u²hnọ²hli²³nv³²svi (s/he carried it on her/his shoulder [long]),
+    "a¹hnọ²hli²³ne³²go³Ɂi (s/he's always carrying it on her/his shoulder [long]),
     "ha²hnọ²hli²nu¹ga (carry it on your shoulder! [long])",
     "u²hnọ²hli²³nv³²sdi (for her/him to carry it on her/his shoulder [long])",
     "a¹hye³ga (s/he's taking it somewhere by  hand)",
