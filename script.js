@@ -282,7 +282,7 @@ const verbSets = {
       "a¹hne³sge²sgo³Ɂi (s/he's always building a house)",
       "ha²hne¹sgv²³la (build a house!)",
       "u²hne¹sgeh²di (for her/him to build a house)",
-     "a¹kwị²yv³Ɂe²ha (s/he's paying him/her)",
+      "a¹kwị²yv³Ɂe²ha (s/he's paying him/her)",
       "ji²yạ²gwị²yv³Ɂe²ha (I'm paying her/him)",
       "u¹kwị²yv³Ɂe²lv²³Ɂi (s/he paid him/her)",
       "a¹kwị²yv³Ɂe²ho³Ɂi (s/he's always paying him/her)",
@@ -480,6 +480,7 @@ const verbSets = {
     "kẹ²lạ³di³do¹ho³Ɂi (s/he's always mingling with a group)",
     "hẹ²la²di²³da (mingle with a group!)",
     "u²hwẹ²lạ³di³da¹sdi (for her/him to mingle with a group)",
+      
     ],
 
   "frequentive/recurring aspect":[
