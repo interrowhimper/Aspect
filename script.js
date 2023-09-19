@@ -387,7 +387,7 @@ const verbSets = {
     
     ],
 
-  "completive aspect":[
+  "completive/terminative aspect":[
     "a¹gọ³hṿ²sga (it's burning)",
     "gạ³gọ²hṿ³sga (I'm burning)",
     "u¹gọ²hnv²³Ɂi (it burned)",
